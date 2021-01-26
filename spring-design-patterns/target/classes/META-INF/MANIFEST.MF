@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-design-patterns
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Steve
+Implementation-Vendor-Id: com.frankmoley.lil
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-design-patterns
+Created-By: Maven Integration for Eclipse
+
